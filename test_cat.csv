@@ -1,0 +1,21 @@
+Item_ID,Item_Name,Item_Category,Scrap_Description,Quantity,Disposal_Method,Cost
+84,Device CF,Furniture,Missing Parts,84,Reuse,8400
+54,Device BB,Furniture,Expired,56,Reuse,5600
+71,Widget BS,Electronics,Defective,71,Recycle,7100
+46,Appliance AT,Kitchenware,Expired,48,Dispose,4800
+45,Tool AS,Hardware,Damaged,46,Reuse,4600
+40,Device AN,Medical,Missing Parts,40,Dispose,4000
+23,Gadget W,Electrical,Defective,23,Recycle,2300
+81,Widget CC,Electronics,Damaged,83,Reuse,8300
+11,Widget K,Electronics,Defective,11,Recycle,1100
+1,Widget A,Electronics,Damaged,10,Recycle,1000
+19,Equipment S,Office,Defective,20,Dispose,2000
+31,Widget AE,Electronics,Defective,34,Dispose,3400
+74,Device BV,Furniture,Expired,74,Recycle,7400
+34,Device AH,Furniture,Expired,32,Dispose,3200
+91,Widget CM,Electronics,Defective,92,Dispose,9200
+5,Tool E,Hardware,Damaged,15,Recycle,1500
+77,Instrument BY,Laboratory,Damaged,77,Recycle,7700
+78,Machine BZ,Industrial,Expired,79,Reuse,7900
+13,Gadget M,Electrical,Damaged,13,Dispose,1300
+32,Gizmo AF,Mechanical,Missing Parts,33,Recycle,3300
